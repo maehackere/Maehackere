@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 # Hello, I'm Hebah
 <a href="https://linkedin.com/in/hebah-hanieh"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Breif introduction]
 Motivated Cybersecurity and IT student eager to secure an internship to gain real-world experience and sharpen skills. Passionate about threat analysis, ethical hacking, and Python programming. Always up for a challenge—and having fun competing in CTF games.
 
 
