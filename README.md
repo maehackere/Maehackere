@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 # Hello, I'm Hebah
 <a href="https://linkedin.com/in/hebah-hanieh"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Motivated and detail-oriented Cybersecurity and IT student with practical experience in threat analysis, risk assessment, and administrative support. Skilled in investigating cyber threats, producing detailed reports, and applying technical expertise in Python programming and ethical hacking. Committed to securing and optimizing digital environments through strong analytical thinking and technical problem-solving. Seeking an entry-level role or internship in Cybersecurity or IT to contribute skills, grow professionally, and support organisational security goals.
+[Breif introduction]
+Motivated Cybersecurity and IT student eager to secure an internship to gain real-world experience and sharpen skills. Passionate about threat analysis, ethical hacking, and Python programming. Always up for a challenge—and having fun competing in CTF games.
 
 
 ## Objective
