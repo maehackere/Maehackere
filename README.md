@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **maehackere/Maehackere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,7 +22,13 @@ Motivated and detail-oriented Cybersecurity and IT student with practical experi
 
 ## Objective
 
-My goal is to join a Security Operations Center (SOC) as a Tier 1 Analyst where I can leverage my skills in threat detection, risk assessment, scripting, and reporting to improve incident response and digital security.
+I'm on a mission to break into cybersecurity — ethically, of course — with a goal of joining an organistion as an intern - or something more. I love solving puzzles, scripting solutions, and demystifying tech for others. Let’s just say: if it has logs, I’ll read them.
+
+- I’m currently working on:] CV upgrades, and my coffee addiction.
+- I’m looking to collaborate on: Capture The Flag (CTF) challenges, cyber awareness campaigns, or building a cyber side project that actually ships.
+- I’m looking for help with: breaking into the cybersecurity industry (figuratively, of course — I don't do illegal things unless it's in a safe virtual lab).
+
+
 
 ## Technial Skills
 
