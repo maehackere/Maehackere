@@ -64,17 +64,6 @@ My goal is to join a Security Operations Center (SOC) as a Tier 1 Analyst where 
 - Volunteering  
 - Customer Service & Cash Handling  
 
-
-## Tools
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-
 ### Certifications
 - 📜 **Certified in Cybersecurity (CC)** – ISC2  
   - Gained foundational knowledge of security principles, network security, and incident response  
